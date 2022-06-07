@@ -106,7 +106,7 @@
 	height: 29vw;
 	
 	/*此三个样式组合，可以保证背景图片充满整个容器*/
-	background-image: url(../img/IndexBanner.PNG);
+	background-image: url(../img/indexbanner.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	
